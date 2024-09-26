@@ -1,6 +1,6 @@
 # Quiz-8
 ###  _About Major Assessment_
-![An image of 'Claude_Monet,_Saint-Georges_majeur_au_crépuscule'](readmeImages/Claude_Monet,_Saint-Georges_majeur_au_crépuscule.jpg)
+![An image of 'Claude_Monet,_Saint-Georges_majeur_au_crépuscule'](readmeImages/Choosen.jpg)
 
 
 # **Part 1: Imaging Technique Inspiration**
@@ -15,8 +15,13 @@
 ![An image of 'Flowing Dimensions'](readmeImages/Image3.jpg)
 
 # **Part 2: Coding Technique Exploration**
-![A screenshot of 'perlin noise code'](readmeImages/Image4.png)
+![A screenshot of 'perlin noise code'](readmeImages/Image4.jpg)
+
 
  To achieve the wave effect from Part 1, **_Perlin Noise_** can be used as the primary coding technique. From my research, I found that this technique provides smooth transitions in space or time, ensuring no large jumps between adjacent pixels or points. It is _pseudo-random_, meaning it appears random but is algorithmically generated, making it useful for creating repeatable textures or patterns. By adjusting the noise function's frequency and amplitude, it generates layered waveforms with smooth transitions. This technique helps create smooth, natural waveforms, ensuring the lines have continuity and fluidity, aligning with the desired visual effect from Part 1.
 
 ["_**Order in Chaos**_"](https://codepen.io/Tibixx/pen/ExOJgKP)  
+![A screenshot of 'Order in Chaos'](readmeImages/Image5.jpg)
+![A screenshot of 'Order in Chaos'](readmeImages/Image6.jpg)
+![A screenshot of 'Order in Chaos'](readmeImages/Image7.jpg)
+![A screenshot of 'Order in Chaos'](readmeImages/Image8.jpg)
