@@ -6,12 +6,17 @@
 # **Part 1: Imaging Technique Inspiration**
   In this research phase, I was inspired by images of stacked curves, which create a rhythmic, flowing visual effect. These lines, based on their density and arrangement, add visual depth and convey spatial fluidity. This technique can represent the natural flow of waves, evoking the dynamic effect of water surfaces. I aim to incorporate this into my major project to present works related to water landscapes or scenes with natural elements. It introduces rich visual variation and spatial depth, offering potential for dynamic flow and interactivity.
 
+
 ["_Abstract Aqua Swirls_"](https://au.pinterest.com/pin/2603712280382639/)
-["_Geometric Schemes_"](https://www.formagramma.com/art/15188/selected-works-johnny-abrahams/)
-["_Flowing Dimensions_"](https://au.pinterest.com/pin/3025924743241731/)  
 
 ![An image of 'Abstract Aqua Swirls'](readmeImages/Image1.jpg)
+
+["_Geometric Schemes_"](https://www.formagramma.com/art/15188/selected-works-johnny-abrahams/)
+
 ![An image of 'Geometric Schemes'](readmeImages/Image2.jpg)
+
+["_Flowing Dimensions_"](https://au.pinterest.com/pin/3025924743241731/)  
+
 ![An image of 'Flowing Dimensions'](readmeImages/Image3.jpg)
 
 # **Part 2: Coding Technique Exploration**
