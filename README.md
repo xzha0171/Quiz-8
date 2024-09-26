@@ -26,4 +26,4 @@
 ![A screenshot of 'Order in Chaos'](readmeImages/Image7.jpg)
 ![A screenshot of 'Order in Chaos'](readmeImages/Image8.jpg)
 
-> _ChatGPT provided the Perlin Noise coding technique in this quiz, helping me better search for methods that support the imaging technique._
+ _ChatGPT provided the Perlin Noise coding technique in this quiz, helping me better search for methods that support the imaging technique._
